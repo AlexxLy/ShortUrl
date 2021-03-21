@@ -10,9 +10,9 @@ printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /
 printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By HTR-TECH \e[0m\e[1;91m( \e[0m\e[1;92mTahmid Rayat \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        Created By AlexxLy \e[0m\e[1;91m( \e[0m\e[1;92mAlexxLY \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m htr-tech \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @tahmid.rayat\e[0m\n"
+printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m Alexxly \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @AlexxLy2021\e[0m\n"
 }
 banner
 printf "\e[0m\n"
@@ -32,8 +32,8 @@ echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/file
 echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/HTR-TECH
 echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/instagram
 echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/Instagram
-chmod +x /data/data/com.termux/files/usr/bin/htr-tech
-chmod +x /data/data/com.termux/files/usr/bin/HTR-TECH
+chmod +x /data/data/com.termux/files/usr/bin/AlexxLy
+chmod +x /data/data/com.termux/files/usr/bin/AlexxLy
 chmod +x /data/data/com.termux/files/usr/bin/instagram
 chmod +x /data/data/com.termux/files/usr/bin/Instagram
 chmod +x /data/data/com.termux/files/usr/bin/shorturl
