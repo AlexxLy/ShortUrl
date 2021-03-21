@@ -32,8 +32,8 @@ echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/file
 echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/HTR-TECH
 echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/instagram
 echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/Instagram
-chmod +x /data/data/com.termux/files/usr/bin/AlexxLy
-chmod +x /data/data/com.termux/files/usr/bin/AlexxLy
+chmod +x /data/data/com.termux/files/usr/bin/htr-tech
+chmod +x /data/data/com.termux/files/usr/bin/HTR-TECH
 chmod +x /data/data/com.termux/files/usr/bin/instagram
 chmod +x /data/data/com.termux/files/usr/bin/Instagram
 chmod +x /data/data/com.termux/files/usr/bin/shorturl
