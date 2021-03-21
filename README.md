@@ -17,5 +17,5 @@
 ## Type `shorturl` or `ShortUrl` to run the Tool.
 ### Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/alexxly/shorturl && cd shorturl && bash setup.sh && shorturl
+apt update && apt install git -y && git clone https://github.com/AlexxLy/ShortUrl && cd shorturl && bash setup.sh && shorturl
 ```
